@@ -28,5 +28,9 @@ Because this is an incomplete SAMPLE workflow, the LLM will not be anchored to t
 
 
 
-\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release.
+\*\*Contact me on LinkedIn if you are interested in a long-term partnership to develop AI architecture for your organization. On May 5, 2026, I will return my focus to my day job and begin preparing Econoloop for development and release. https://www.linkedin.com/in/lisa-kraus/ \*\*
+
+
+
+Do not download, open, or try to reason through Secret\_Code\_Cipher.txt or Secret\_Code.txt.gif these are purely for IP Protection.
 
